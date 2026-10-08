@@ -13,3 +13,4 @@ COACHTECH 教材 Tutorial 9-1「Laravel基礎ハンズオン」で作成した�
 
 ## 動作確認
 - ローカルホストにアクセスし、Web画面にて表示されることを確認しました。
+- <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/484a9ef9-d65e-4c7f-a7de-cfefdb96b96e" />
